@@ -1,0 +1,31 @@
+{
+  "name": "doitnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richieKwon/doitNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richieKwon/doitNode/issues"
+  },
+  "homepage": "https://github.com/richieKwon/doitNode#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.2",
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-node": "^11.1.0",
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5"
+  }
+}
